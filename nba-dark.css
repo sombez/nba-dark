@@ -20,6 +20,11 @@ color: #fff;
 
 #new-post {
 background: #000;
+border: 1px solid transparent;
+}
+
+.editor-container {
+ background-color:#000;
 }
 
 #header-welcome > a {
