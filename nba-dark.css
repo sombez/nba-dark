@@ -188,3 +188,22 @@ width:50px;
 animation:none;
     color: transparent;
 }
+
+/* wordgame patch */
+
+#guesses {
+    background-color: black;
+    box-shadow: 0 0 100px black;
+}
+
+#complete-banner {
+    position: fixed;
+    margin: auto;
+    width: 640px;
+    height: 480px;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, 0.999);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
